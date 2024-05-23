@@ -9,11 +9,11 @@
 <br>
 - 🔭 I’m currently working on **Automatic Thief Recognition - Research Project**
 
-- 🌱 I’m currently learning **Cyber Security,Javascript,Iot,etc..,**
+- 🌱 I’m currently learning **Spring, Spring Boot, Iot, etc..,**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-five-liart-20.vercel.app/](https://portfolio-five-liart-20.vercel.app/)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Spring**
 
 - 📫 How to reach me **dhyaneshvarprasaathjm.23mca@kongu.edu**
 
