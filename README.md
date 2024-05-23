@@ -7,7 +7,7 @@
 
 
 <br>
-- 🔭 I’m currently working on **Automatic Thief Recognition - Research Project**
+- 🔭 I’m currently working on SUSTAINABLE ENERGY GENERATION FROM SPEED BREAKERS FOR SMART STREET LIGHTING APPLICATION - Review Paper
 
 - 🌱 I’m currently learning **Spring, Spring Boot, Iot, etc..,**
 
