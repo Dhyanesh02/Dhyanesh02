@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Spring, Spring Boot, Iot, etc..,**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-liart-20.vercel.app/](https://portfolio-five-liart-20.vercel.app/)
+- 👨‍💻 All of my projects are available at [tinyurl.com/dhyaniPortfolio](https://dhyanesh02.github.io/Personal-Portfolio/)
 
 - 💬 Ask me about **Spring**
 
 - 📫 How to reach me **dhyaneshvarprasaathjm.23mca@kongu.edu**
 
-- 📄 Know about my experiences [https://portfolio-five-liart-20.vercel.app/Resume.pdf](https://portfolio-five-liart-20.vercel.app/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rxgYtJnQmzI_CKi5IZBAvYyt0EFdNRbs/view)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
