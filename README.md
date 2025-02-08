@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: **📚 Exploring Edge Computing**
 - 💬 Ask me about: **💡 Spring, Spring Boot, Iot and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="tinyurl.com/dhyaniPortfolio" target="_blank">tinyurl.com/dhyaniPortfolio</a>**
+- 📂 Portfolio: **<a href="[tinyurl.com/dhyaniPortfolio](https://dhyanesh02.github.io/Personal-Portfolio/)" target="_blank">tinyurl.com/dhyaniPortfolio</a>**
 
  **<h3 align="left">Skills</h3>**
 
